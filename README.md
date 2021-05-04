@@ -71,7 +71,7 @@ This to make p21 and p22 pins to operate in PWM output mode.
    
   > •	**•	Key_pressed flag is very important to accept from the user only one insertion at one          time not many at one time as if I pressed wait till, I release to start checking again.** 
 
-## How to Compile and build
+## How to Compile and build?
 
 You can use https://ide.mbed.com/ for compiling and building your code
 
